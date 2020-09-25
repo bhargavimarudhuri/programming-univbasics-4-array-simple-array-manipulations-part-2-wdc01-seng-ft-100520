@@ -3,8 +3,8 @@ def using_concat(array1, array2)
 end   
 
 def using_insert(array, element)
-    element = -2
-   new_array = array.insert(element)
+    
+   new_array[4] = array.insert(element)
 end  
 
 def using_uniq(array)
