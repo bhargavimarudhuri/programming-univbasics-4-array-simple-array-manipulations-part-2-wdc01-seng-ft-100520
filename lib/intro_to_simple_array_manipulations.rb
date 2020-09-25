@@ -3,8 +3,8 @@ def using_concat(array1, array2)
 end   
 
 def using_insert(array, new_element)
-    
-   new_array[5] = array.insert(new_element)
+      new_element = 5
+   new_array[] = array.insert(new_element)
 
 end  
 
