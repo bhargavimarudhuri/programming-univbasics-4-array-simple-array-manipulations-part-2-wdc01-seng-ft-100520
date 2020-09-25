@@ -4,7 +4,7 @@ end
 
 def using_insert(array, element)
       
-   new_array[] = array.insert(-1 ,element)
+   array.insert(3 ,element)
 
 end  
 
